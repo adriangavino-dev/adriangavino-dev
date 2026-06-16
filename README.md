@@ -68,7 +68,7 @@ adrian = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adriangavino-dev&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://streak-stats.demolab.com?user=adriangavino-dev&hide_border=false&background=14223b&border=1d3052&stroke=1d3052&ring=c2303f&fire=c2303f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c2303f&sideLabels=dde4ef&dates=8294b3" />
 
 </div>
 
@@ -78,7 +78,7 @@ adrian = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adriangavino-dev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=adriangavino-dev&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
