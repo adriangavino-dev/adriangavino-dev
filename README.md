@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14223b,100:c2303f&height=200&section=header&text=Adrian%20Gavino&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C2303F&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;CS+Student+%40+UTEC;AI-assisted+builder;Turning+real+problems+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C2303F&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;CS+Student+%40UTEC;AI-assisted+builder;Turning+real+problems+into+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=c2303f&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=adriangavino-dev&label=Profile%20views&color=c2303f&style=flat" alt="profile views" />
 
 </div>
 
@@ -19,7 +19,7 @@
 ```python
 adrian = {
     "role":      "Full-Stack Developer",
-    "study":     "Computer Science @ UTEC",
+    "study":     "Computer Science @UTEC",
     "location":  "Lima, Peru 🇵🇪",
     "focus":     ["Web", "AI Automation", "Computer Vision"],
     "mindset":   "Ship things that actually work.",
@@ -63,12 +63,12 @@ adrian = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&hide_border=false&title_color=c2303f&icon_color=c2303f&text_color=dde4ef&bg_color=14223b&border_color=1d3052" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&hide_border=false&title_color=c2303f&text_color=dde4ef&bg_color=14223b&border_color=1d3052" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adriangavino-dev&show_icons=true&count_private=true&hide_border=false&title_color=c2303f&icon_color=c2303f&text_color=dde4ef&bg_color=14223b&border_color=1d3052" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriangavino-dev&layout=compact&langs_count=8&hide_border=false&title_color=c2303f&text_color=dde4ef&bg_color=14223b&border_color=1d3052" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=false&background=14223b&border=1d3052&stroke=1d3052&ring=c2303f&fire=c2303f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c2303f&sideLabels=dde4ef&dates=8294b3" />
+<img src="https://streak-stats.demolab.com?user=adriangavino-dev&hide_border=false&background=14223b&border=1d3052&stroke=1d3052&ring=c2303f&fire=c2303f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c2303f&sideLabels=dde4ef&dates=8294b3" />
 
 </div>
 
@@ -78,7 +78,7 @@ adrian = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=adriangavino-dev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -88,13 +88,13 @@ adrian = {
 
 ### 🔗 Let's connect
 
-<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN/">
+<a href="https://www.linkedin.com/in/adrian-piero-gavino-navarrete-75630b1b1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:adriangavino951@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-c2303f?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/adriangavino-dev">
   <img src="https://img.shields.io/badge/GitHub-14223b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
